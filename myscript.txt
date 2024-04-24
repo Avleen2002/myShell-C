@@ -1,0 +1,7 @@
+print apple
+theme blue
+print blue
+pwd&
+ls
+theme pink
+exit

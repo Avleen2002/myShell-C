@@ -15,3 +15,7 @@ cshell is a command-line interpreter developed as part of an assignment, aimed a
   - **Script Mode:** Read commands from a script file and execute them sequentially.
 
 - **Efficient Command Execution:** Efficient execution of commands, including non-built-in ones, achieved through proper utilization of fork() and exec() system calls, ensuring streamlined output redirection and error handling.
+
+
+## Acknowledgements
+Special thanks to the creators of the Unix/Linux "ls" command and to professor Hazra Imran, for inspiration and guidance.

@@ -18,4 +18,4 @@ cshell is a command-line interpreter developed as part of an assignment, aimed a
 
 
 ## Acknowledgements
-Special thanks to the creators of the Unix/Linux "ls" command and to professor Hazra Imran, for inspiration and guidance.
+Special thanks to professor Hazra Imran, for inspiration and guidance.

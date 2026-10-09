@@ -1,4 +1,4 @@
-# cshell: Command-Line Interpreter with Built-in Functionality
+# cshell: Command-Line Interpreter
 
 cshell is a command-line interpreter developed as part of an assignment, aimed at providing users with a versatile shell environment with built-in functionalities and support for environment variables.
 
